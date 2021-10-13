@@ -1,0 +1,53 @@
+  
+  body {
+   
+    background-image: url(./images/world.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .form-inline {
+    text-align: center;
+  }
+  .form_country {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .flag {
+    width: 350px;
+  }
+  
+  .text {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    font-size: 28px;
+    line-height: 1.2;
+    /* text-align: center; */
+    margin: 40px;
+    width: 538px;
+  }
+  
+  .listCountry {
+    font-size: 24px;
+    font-weight: bold;
+    max-width: 500px;
+    text-align: left;
+    margin: 0 auto;
+   
+  }
+.list
+{
+  text-decoration: none;
+  list-style: none;
+}
+.container
+{
+  background: grey;
+  width: 800px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+ 
